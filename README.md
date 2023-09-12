@@ -1,4 +1,1 @@
-## Olá, Mundo!
-
-- 🔭 Quero começar a trabalhar com desenvolvimento de jogos.
-- 🌱 Estou aprendendo C#. Tive meu primeiro contato com a programação no desenvolvimento front-end em 2021, mas a área de jogos sempre me pareceu mais interessante.
+[![gustavohenriquepinto's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavohenriquepinto&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#dark-mode-only)
